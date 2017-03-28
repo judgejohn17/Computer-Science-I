@@ -1,0 +1,13 @@
+#File: report.txt
+#Name: John J.
+#Description: This text file is in conjunction with the findFast.py and findSlow.py files
+
+1. Pivot is an abitrary point in the list that we can define. Its purpose is to compare the parts of the list. We can look at the two sides of the list and compare them. No, selecting the first item in the list would not change it because it is an arbitrary poin in data.
+
+2. In order to test the fastSelect we could use test cases in with the highest value of the range, the lowest value of the range, and a value in the middle of the range. 
+
+3.  Test 1:0.006665000000000004
+	Test 2:0.00661500000000001
+	Test 3:0.006619999999999987
+	Test 4:0.006631000000000026
+	Test 5:0.006653999999999993
